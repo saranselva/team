@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.dhanu.dao.IPlayerDao;
+import com.dhanu.team.dao.IPlayerDao;
 import com.dhanu.team.model.Player;
 @Service
 @Transactional

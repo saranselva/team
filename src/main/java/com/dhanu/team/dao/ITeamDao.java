@@ -1,4 +1,4 @@
-package com.dhanu.dao;
+package com.dhanu.team.dao;
 
 import java.util.List;
 

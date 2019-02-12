@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.dhanu.dao.ITeamDao;
+import com.dhanu.team.dao.ITeamDao;
 import com.dhanu.team.model.Team;
 
 @Service
